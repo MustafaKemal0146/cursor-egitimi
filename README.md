@@ -10,6 +10,16 @@ Cursor IDE, modern yazılım projelerinde yapay zekayı etkin bir şekilde kulla
 
 ---
 
+## Cursor Eğitim Serisi
+
+Cursor IDE ve `.cursorrules` dosyalarını daha etkili kullanmak için hazırladığım eğitim serisine buradan ulaşabilirsiniz:
+
+🎥 [**Cursor Eğitim Serisi - YouTube**](https://www.youtube.com/watch?v=tSLuscvFn1A&list=PL5GV3qXlTyqNK56uV4LoeSUFisGtqf5M7)
+
+Bu seride, Cursor AI'nin temel özelliklerinden başlayarak, `.cursorrules` dosyalarını nasıl özelleştirebileceğinize kadar birçok konuyu ele alıyorum. Eğitim serisini takip ederek, Cursor IDE'yi daha verimli bir şekilde kullanmayı öğrenebilirsiniz.
+
+---
+
 ## .CursorRules
 
 Cursor AI deneyiminizi geliştirmek için derlenmiş harika `.cursorrules` dosyalarının bir listesi.

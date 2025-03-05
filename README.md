@@ -1,4 +1,4 @@
-# Cursor IDE ve En Kullanışlı CursorRules [![Muhteşem](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Cursor IDE ve En Kullanışlı CursorRules [![Muhteşem](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Hits](https://hits.sh/github.com/MustafaKemal0146/cursor-egitimi.svg)](https://hits.sh/github.com/MustafaKemal0146/cursor-egitimi/)
 
 ![Cursor AI](https://webfellas.com.tr/wp-content/uploads/2025/01/cursor-ai.jpg)
 

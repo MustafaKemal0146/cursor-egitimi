@@ -227,6 +227,7 @@ Projenizin kök dizinine bir `.cursorrules` dosyası ekleyerek bu avantajlardan 
 
 ## Diğer
 
+- [İllegal Mode](./rules/illegal-mode/KemuGPT.txt)
 - [ASCII Simulation Game](./rules/ascii-simulation-game-cursorrules-prompt-file/.cursorrules)
 - [Code Guidelines](./rules/code-guidelines-cursorrules-prompt-file/.cursorrules)
 - [DragonRuby Best Practices](./rules/dragonruby-best-practices-cursorrules-prompt-file/.cursorrules)

@@ -257,7 +257,7 @@ Projenizin kök dizinine bir `.cursorrules` dosyası ekleyerek bu avantajlardan 
 Diğer modeller için bu özelliğin entegrasyonu üzerine çalışmalar devam etmektedir. Yakın gelecekte daha fazla modelde desteklenmesi planlanmaktadır.
 
 ### Nasıl Kullanılır?
-1. [`rules/illegal-mode/KemuGPT.txt`](https://github.com/MustafaKemal0146/cursor-egitimi/blob/main/rules/illegal-mode/KemuGPT.txt) dosyasını projenizin kök dizinine kopyalayın.
+1. [`rules/illegal-mode/KemuGPT.txt`](https://github.com/MustafaKemal0146/cursor-egitimi/blob/main/rules/illegal-mode/KemuGPT.txt) dosyasını projenizin kök dizinine kopyalayın yada Agent moda bu promtu yapıştırın.
 2. Cursor AI'yi açın ve projenizi yükleyin.
 3. İllegal Mod, otomatik olarak etkinleşecektir. Ancak, bu modun kullanımı sırasında dikkatli olunmalıdır.
 

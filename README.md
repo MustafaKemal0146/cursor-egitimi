@@ -251,7 +251,7 @@ Projenizin kök dizinine bir `.cursorrules` dosyası ekleyerek bu avantajlardan 
 
 ### Çalıştığı Sürümler:
 - **DeepSeek R1**
-- **Gemini 2.0 Pro** (tüm modelleri)
+- **Gemini 2.5 Pro** (ve tüm modelleri)
 - **Perplexity**
 
 Diğer modeller için bu özelliğin entegrasyonu üzerine çalışmalar devam etmektedir. Yakın gelecekte daha fazla modelde desteklenmesi planlanmaktadır.
